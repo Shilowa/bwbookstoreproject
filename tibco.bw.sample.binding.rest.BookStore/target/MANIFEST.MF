@@ -1,8 +1,8 @@
-Manifest-Version: 1.0.0.202411261131
+Manifest-Version: 1.0.0.202412021014
 Bundle-ManifestVersion: 2
 Bundle-Name: Tibco Bw Sample Binding Rest BookStore Module
 Bundle-SymbolicName: tibco.bw.sample.binding.rest.BookStore
-Bundle-Version: 1.0.0.202411261131
+Bundle-Version: 1.0.0.202412021014
 Bundle-Vendor: TIBCO Software Inc.
 TIBCO-BW-ModuleSharedVariables: META-INF/module.msv
 Require-Capability: com.tibco.bw.model; filter:="(name=bwext)",com.tibco
